@@ -20,7 +20,7 @@ Link: [Google Drive](https://drive.google.com/drive/folders/1-kcj73qL-nTVR63k2gz
 
 If you use our dataset or code in your research, please cite our paper to acknowledge this work. 
 
-Link: [IEEE Access](https://ieeexplore.ieee.org/abstract/document/9062515).
+Link: [IEEE TIE](https://ieeexplore.ieee.org/abstract/document/9062515).
 
 ```
 @ARTICLE{9062515,
